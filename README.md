@@ -1,6 +1,6 @@
 # NIT KKR Hostel 10 — Visvesvaraya Bhawan Portal
 
-A static front-end portal for NIT Kurukshetra Hostel 10, built with vanilla HTML, CSS, and JavaScript.
+A static front-end portal for NIT Kurukshetra Hostel 10, built with HTML, CSS, and JavaScript.
 
 🔗 **Live site:** https://amanrana-13.github.io/nitkkr-hostel10-portal/
 
