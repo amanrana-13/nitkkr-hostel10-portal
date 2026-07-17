@@ -3,7 +3,7 @@
 A static front-end portal for NIT Kurukshetra Hostel 10, built with HTML, CSS, and JavaScript.
 
 **Live site (GitHub Pages):** https://amanrana-13.github.io/nitkkr-hostel10-portal/
-**Live site (Vercel):** [https://amanrana-projects.vercel.app](https://nitkkr-hostel10-portal.vercel.app/)
+**Live site (Vercel):** https://nitkkr-hostel10-portal.vercel.app/
 
 ## Features
 - Hostel fee structure display
